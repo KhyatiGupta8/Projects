@@ -1,1 +1,1 @@
-# Linear regression multivariate analysis
+# Machine Learning algorithms and there applications
